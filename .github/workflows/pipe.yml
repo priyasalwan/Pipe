@@ -1,7 +1,5 @@
 name: Python Pipe
-
-on: push
-
+on: 
 jobs:
   test:
     runs-on:
